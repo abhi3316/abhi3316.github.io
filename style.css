@@ -40,6 +40,14 @@ header p {
     font-size: 1.2em;
 }
 
+.tagline {
+    text-align: center;
+    font-size: 1.1em;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    color: #a7a7a7; /* Lighter color for secondary text */
+}
+
 nav {
     display: flex;
     justify-content: center;
