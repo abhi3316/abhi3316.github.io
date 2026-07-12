@@ -3,8 +3,8 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background: #f4f4f4;
-    color: #333;
+    background: #fdfdfd;
+    color: #555;
 }
 
 .container {
@@ -15,11 +15,11 @@ body {
 }
 
 header {
-    background: #333;
+    background: #2c3e50;
     color: #fff;
     padding-top: 30px;
     min-height: 70px;
-    border-bottom: #0779e4 3px solid;
+    border-bottom: #1abc9c 3px solid;
 }
 
 header h1 {
@@ -59,7 +59,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #0779e4;
+    color: #1abc9c;
     font-weight: bold;
 }
 
@@ -117,7 +117,7 @@ section h2 {
 
 #skills ul li {
     display: inline-block;
-    background: #333;
+    background: #1abc9c;
     color: #fff;
     padding: 5px 15px;
     margin: 5px;
@@ -125,18 +125,18 @@ section h2 {
 }
 
 #contact a {
-    color: #333;
+    color: #555;
     text-decoration: none;
 }
 
 #contact a:hover {
-    color: #0779e4;
+    color: #1abc9c;
 }
 
 
 footer {
     text-align: center;
     padding: 30px 0;
-    background: #333;
+    background: #2c3e50;
     color: #fff;
 }
